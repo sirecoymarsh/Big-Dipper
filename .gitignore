@@ -1,0 +1,20 @@
+# Local originals and generated game assets
+original/
+staging/
+dist/
+*.zip
+
+# Build and diagnostic leftovers
+*.pdb
+*.mdb
+*.log
+__pycache__/
+*.pyc
+.vs/
+.idea/
+
+# Never commit local credentials or game saves
+*.token
+*.key
+*.pem
+saves/

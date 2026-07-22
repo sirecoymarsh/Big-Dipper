@@ -1,0 +1,840 @@
+{
+  "targets": [
+    {
+      "char": "戏",
+      "codepoint": "U+620F",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": true,
+      "patched_present": true,
+      "patched_metrics": [
+        1732.0,
+        1061.0,
+        64.0,
+        61.0,
+        64.0
+      ]
+    },
+    {
+      "char": "选",
+      "codepoint": "U+9009",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": true,
+      "patched_present": true,
+      "patched_metrics": [
+        2812.0,
+        1337.0,
+        64.0,
+        61.0,
+        64.0
+      ]
+    },
+    {
+      "char": "员",
+      "codepoint": "U+5458",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": true,
+      "patched_present": true,
+      "patched_metrics": [
+        868.0,
+        2294.0,
+        64.0,
+        59.0,
+        64.0
+      ]
+    },
+    {
+      "char": "设",
+      "codepoint": "U+8BBE",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": true,
+      "patched_present": true,
+      "patched_metrics": [
+        724.0,
+        1337.0,
+        64.0,
+        61.0,
+        64.0
+      ]
+    },
+    {
+      "char": "茱",
+      "codepoint": "U+8331",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": false,
+      "patched_present": true,
+      "patched_metrics": [
+        2740.0,
+        644.0,
+        64.0,
+        62.0,
+        64.0
+      ]
+    },
+    {
+      "char": "莉",
+      "codepoint": "U+8389",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": false,
+      "patched_present": true,
+      "patched_metrics": [
+        3532.0,
+        644.0,
+        64.0,
+        62.0,
+        64.0
+      ]
+    },
+    {
+      "char": "亚",
+      "codepoint": "U+4E9A",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": true,
+      "patched_present": true,
+      "patched_metrics": [
+        2432.0,
+        3022.0,
+        64.0,
+        53.0,
+        64.0
+      ]
+    },
+    {
+      "char": "母",
+      "codepoint": "U+6BCD",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": true,
+      "patched_present": true,
+      "patched_metrics": [
+        3676.0,
+        2629.0,
+        64.0,
+        58.0,
+        64.0
+      ]
+    },
+    {
+      "char": "亲",
+      "codepoint": "U+4EB2",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": true,
+      "patched_present": true,
+      "patched_metrics": [
+        3771.0,
+        784.0,
+        64.0,
+        61.0,
+        64.0
+      ]
+    },
+    {
+      "char": "女",
+      "codepoint": "U+5973",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": true,
+      "patched_present": true,
+      "patched_metrics": [
+        220.0,
+        224.0,
+        64.0,
+        62.0,
+        64.0
+      ]
+    },
+    {
+      "char": "孩",
+      "codepoint": "U+5B69",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": false,
+      "patched_present": true,
+      "patched_metrics": [
+        2308.0,
+        224.0,
+        64.0,
+        62.0,
+        64.0
+      ]
+    },
+    {
+      "char": "安",
+      "codepoint": "U+5B89",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": true,
+      "patched_present": true,
+      "patched_metrics": [
+        2380.0,
+        224.0,
+        64.0,
+        62.0,
+        64.0
+      ]
+    },
+    {
+      "char": "德",
+      "codepoint": "U+5FB7",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": false,
+      "patched_present": true,
+      "patched_metrics": [
+        2452.0,
+        294.0,
+        64.0,
+        62.0,
+        64.0
+      ]
+    },
+    {
+      "char": "鲁",
+      "codepoint": "U+9C81",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": false,
+      "patched_present": true,
+      "patched_metrics": [
+        1804.0,
+        784.0,
+        64.0,
+        62.0,
+        64.0
+      ]
+    },
+    {
+      "char": "尼",
+      "codepoint": "U+5C3C",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": true,
+      "patched_present": true,
+      "patched_metrics": [
+        2164.0,
+        2629.0,
+        64.0,
+        58.0,
+        64.0
+      ]
+    },
+    {
+      "char": "古",
+      "codepoint": "U+53E4",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": true,
+      "patched_present": true,
+      "patched_metrics": [
+        3964.0,
+        84.0,
+        64.0,
+        62.0,
+        64.0
+      ]
+    },
+    {
+      "char": "拉",
+      "codepoint": "U+62C9",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": true,
+      "patched_present": true,
+      "patched_metrics": [
+        3820.0,
+        1061.0,
+        64.0,
+        61.0,
+        64.0
+      ]
+    },
+    {
+      "char": "斯",
+      "codepoint": "U+65AF",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": false,
+      "patched_present": true,
+      "patched_metrics": [
+        1156.0,
+        1130.0,
+        64.0,
+        61.0,
+        64.0
+      ]
+    },
+    {
+      "char": "加",
+      "codepoint": "U+52A0",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": true,
+      "patched_present": true,
+      "patched_metrics": [
+        940.0,
+        923.0,
+        64.0,
+        61.0,
+        64.0
+      ]
+    },
+    {
+      "char": "载",
+      "codepoint": "U+8F7D",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": false,
+      "patched_present": true,
+      "patched_metrics": [
+        3028.0,
+        714.0,
+        64.0,
+        62.0,
+        64.0
+      ]
+    },
+    {
+      "char": "所",
+      "codepoint": "U+6240",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": true,
+      "patched_present": true,
+      "patched_metrics": [
+        2020.0,
+        1061.0,
+        64.0,
+        61.0,
+        64.0
+      ]
+    },
+    {
+      "char": "存",
+      "codepoint": "U+5B58",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": true,
+      "patched_present": true,
+      "patched_metrics": [
+        1588.0,
+        992.0,
+        64.0,
+        61.0,
+        64.0
+      ]
+    },
+    {
+      "char": "档",
+      "codepoint": "U+6863",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": false,
+      "patched_present": true,
+      "patched_metrics": [
+        436.0,
+        504.0,
+        64.0,
+        62.0,
+        64.0
+      ]
+    },
+    {
+      "char": "是",
+      "codepoint": "U+662F",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": true,
+      "patched_present": true,
+      "patched_metrics": [
+        2884.0,
+        2294.0,
+        64.0,
+        59.0,
+        64.0
+      ]
+    },
+    {
+      "char": "否",
+      "codepoint": "U+5426",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": true,
+      "patched_present": true,
+      "patched_metrics": [
+        3973.0,
+        2562.0,
+        64.0,
+        58.0,
+        64.0
+      ]
+    },
+    {
+      "char": "新",
+      "codepoint": "U+65B0",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": false,
+      "patched_present": true,
+      "patched_metrics": [
+        1228.0,
+        1130.0,
+        64.0,
+        61.0,
+        64.0
+      ]
+    },
+    {
+      "char": "游",
+      "codepoint": "U+6E38",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": false,
+      "patched_present": true,
+      "patched_metrics": [
+        2452.0,
+        504.0,
+        64.0,
+        62.0,
+        64.0
+      ]
+    },
+    {
+      "char": "戏",
+      "codepoint": "U+620F",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": true,
+      "patched_present": true,
+      "patched_metrics": [
+        1732.0,
+        1061.0,
+        64.0,
+        61.0,
+        64.0
+      ]
+    },
+    {
+      "char": "载",
+      "codepoint": "U+8F7D",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": false,
+      "patched_present": true,
+      "patched_metrics": [
+        3028.0,
+        714.0,
+        64.0,
+        62.0,
+        64.0
+      ]
+    },
+    {
+      "char": "入",
+      "codepoint": "U+5165",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": true,
+      "patched_present": true,
+      "patched_metrics": [
+        2461.0,
+        2562.0,
+        64.0,
+        58.0,
+        64.0
+      ]
+    },
+    {
+      "char": "画",
+      "codepoint": "U+753B",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": true,
+      "patched_present": true,
+      "patched_metrics": [
+        3964.0,
+        2827.0,
+        64.0,
+        57.0,
+        64.0
+      ]
+    },
+    {
+      "char": "廊",
+      "codepoint": "U+5ECA",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": false,
+      "patched_present": true,
+      "patched_metrics": [
+        1300.0,
+        294.0,
+        64.0,
+        62.0,
+        64.0
+      ]
+    },
+    {
+      "char": "制",
+      "codepoint": "U+5236",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": true,
+      "patched_present": true,
+      "patched_metrics": [
+        2812.0,
+        1682.0,
+        64.0,
+        60.0,
+        64.0
+      ]
+    },
+    {
+      "char": "作",
+      "codepoint": "U+4F5C",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": true,
+      "patched_present": true,
+      "patched_metrics": [
+        1804.0,
+        854.0,
+        64.0,
+        61.0,
+        64.0
+      ]
+    },
+    {
+      "char": "人",
+      "codepoint": "U+4EBA",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": true,
+      "patched_present": true,
+      "patched_metrics": [
+        2173.0,
+        2562.0,
+        64.0,
+        58.0,
+        64.0
+      ]
+    },
+    {
+      "char": "员",
+      "codepoint": "U+5458",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": true,
+      "patched_present": true,
+      "patched_metrics": [
+        868.0,
+        2294.0,
+        64.0,
+        59.0,
+        64.0
+      ]
+    },
+    {
+      "char": "退",
+      "codepoint": "U+9000",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": false,
+      "patched_present": true,
+      "patched_metrics": [
+        3388.0,
+        1818.0,
+        64.0,
+        60.0,
+        64.0
+      ]
+    },
+    {
+      "char": "出",
+      "codepoint": "U+51FA",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": true,
+      "patched_present": true,
+      "patched_metrics": [
+        3748.0,
+        854.0,
+        64.0,
+        61.0,
+        64.0
+      ]
+    },
+    {
+      "char": "主",
+      "codepoint": "U+4E3B",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": true,
+      "patched_present": true,
+      "patched_metrics": [
+        3632.0,
+        2226.0,
+        64.0,
+        59.0,
+        64.0
+      ]
+    },
+    {
+      "char": "菜",
+      "codepoint": "U+83DC",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": false,
+      "patched_present": true,
+      "patched_metrics": [
+        3604.0,
+        644.0,
+        64.0,
+        62.0,
+        64.0
+      ]
+    },
+    {
+      "char": "单",
+      "codepoint": "U+5355",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": true,
+      "patched_present": true,
+      "patched_metrics": [
+        3100.0,
+        1682.0,
+        64.0,
+        60.0,
+        64.0
+      ]
+    },
+    {
+      "char": "窗",
+      "codepoint": "U+7A97",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": false,
+      "patched_present": true,
+      "patched_metrics": [
+        3964.0,
+        1199.0,
+        64.0,
+        61.0,
+        64.0
+      ]
+    },
+    {
+      "char": "口",
+      "codepoint": "U+53E3",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": true,
+      "patched_present": true,
+      "patched_metrics": [
+        2576.0,
+        3022.0,
+        64.0,
+        53.0,
+        64.0
+      ]
+    },
+    {
+      "char": "化",
+      "codepoint": "U+5316",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": true,
+      "patched_present": true,
+      "patched_metrics": [
+        1516.0,
+        923.0,
+        64.0,
+        61.0,
+        64.0
+      ]
+    },
+    {
+      "char": "停",
+      "codepoint": "U+505C",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": false,
+      "patched_present": true,
+      "patched_metrics": [
+        2092.0,
+        1682.0,
+        64.0,
+        60.0,
+        64.0
+      ]
+    },
+    {
+      "char": "止",
+      "codepoint": "U+6B62",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": true,
+      "patched_present": true,
+      "patched_metrics": [
+        3604.0,
+        2629.0,
+        64.0,
+        58.0,
+        64.0
+      ]
+    },
+    {
+      "char": "当",
+      "codepoint": "U+5F53",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": true,
+      "patched_present": true,
+      "patched_metrics": [
+        724.0,
+        1061.0,
+        64.0,
+        61.0,
+        64.0
+      ]
+    },
+    {
+      "char": "然",
+      "codepoint": "U+7136",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": false,
+      "patched_present": true,
+      "patched_metrics": [
+        3028.0,
+        504.0,
+        64.0,
+        62.0,
+        64.0
+      ]
+    },
+    {
+      "char": "뉴",
+      "codepoint": "U+B274",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": false,
+      "patched_present": true,
+      "patched_metrics": [
+        3204.0,
+        2695.0,
+        59.0,
+        58.0,
+        59.0
+      ]
+    },
+    {
+      "char": "텍",
+      "codepoint": "U+D14D",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": false,
+      "patched_present": true,
+      "patched_metrics": [
+        1813.0,
+        1613.0,
+        59.0,
+        61.0,
+        59.0
+      ]
+    },
+    {
+      "char": "릭",
+      "codepoint": "U+B9AD",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": false,
+      "patched_present": true,
+      "patched_metrics": [
+        2282.0,
+        1475.0,
+        59.0,
+        61.0,
+        59.0
+      ]
+    },
+    {
+      "char": "가",
+      "codepoint": "U+AC00",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": false,
+      "patched_present": true,
+      "patched_metrics": [
+        1948.0,
+        1406.0,
+        59.0,
+        61.0,
+        59.0
+      ]
+    },
+    {
+      "char": "힣",
+      "codepoint": "U+D7A3",
+      "source_font_notdef": false,
+      "source_font_replacement": false,
+      "original_present": false,
+      "patched_present": false
+    }
+  ],
+  "notdef_fingerprint": [
+    [
+      64,
+      66
+    ],
+    "604bd0d36a6c8412bca9c8a7af8150e2b88cc8abfcf8ee5b82ff93b6333e8662"
+  ],
+  "replacement_fingerprint": [
+    [
+      64,
+      66
+    ],
+    "604bd0d36a6c8412bca9c8a7af8150e2b88cc8abfcf8ee5b82ff93b6333e8662"
+  ],
+  "original_glyph_count": 1656,
+  "patched_glyph_count": 2769,
+  "duplicate_metric_groups": [
+    {
+      "chars": "戏戏",
+      "metrics": [
+        1732.0,
+        1061.0,
+        64.0,
+        61.0,
+        64.0
+      ]
+    },
+    {
+      "chars": "员员",
+      "metrics": [
+        868.0,
+        2294.0,
+        64.0,
+        59.0,
+        64.0
+      ]
+    },
+    {
+      "chars": "载载",
+      "metrics": [
+        3028.0,
+        714.0,
+        64.0,
+        62.0,
+        64.0
+      ]
+    }
+  ]
+}

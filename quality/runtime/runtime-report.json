@@ -1,0 +1,253 @@
+{
+  "schema_version": 2,
+  "patch_version": "1.2.2",
+  "generated_utc": "2026-07-21T18:49:03.536894+00:00",
+  "runtime": {
+    "unity": "2018.3.3f1",
+    "bepinex": "5.4.23.5",
+    "verification_complete": true,
+    "check_count": 22,
+    "failed_checks": [],
+    "error_lines": 0,
+    "warning_lines": 0,
+    "exception_mentions": 0,
+    "hook_failure_mentions": 0,
+    "startup_hooks": {
+      "speaker_setter": true,
+      "game_text_writers": true,
+      "tmp_setter": true,
+      "tmp_on_enable": true,
+      "initialization_completed": true
+    },
+    "menu": {
+      "korean_labels_active": true,
+      "old_chinese_labels_absent": true,
+      "korean_description_present": true,
+      "russian_description_absent": true
+    },
+    "load_confirmation": {
+      "question": "선택한 저장 파일을 불러올까요?",
+      "question_pass": true,
+      "yes_pass": true,
+      "no_pass": true,
+      "actual_game_writer_hook_observed": true
+    },
+    "julia": {
+      "before_source_actual_parser_line": true,
+      "before_visible_name": "소녀",
+      "before_pass": true,
+      "after_source_actual_parser_line": true,
+      "after_actual_forced_chinese_token": "茱莉亚",
+      "after_visible_name": "줄리아",
+      "after_pass": true
+    },
+    "checks": [
+      {
+        "label": "MAIN_MENU_LABEL_0",
+        "pass": true,
+        "detail": "text=새 게임|activeCount=1"
+      },
+      {
+        "label": "MAIN_MENU_LABEL_1",
+        "pass": true,
+        "detail": "text=불러오기|activeCount=2"
+      },
+      {
+        "label": "MAIN_MENU_LABEL_2",
+        "pass": true,
+        "detail": "text=갤러리|activeCount=1"
+      },
+      {
+        "label": "MAIN_MENU_LABEL_3",
+        "pass": true,
+        "detail": "text=제작진|activeCount=1"
+      },
+      {
+        "label": "MAIN_MENU_LABEL_4",
+        "pass": true,
+        "detail": "text=설정|activeCount=2"
+      },
+      {
+        "label": "MAIN_MENU_LABEL_5",
+        "pass": true,
+        "detail": "text=종료|activeCount=1"
+      },
+      {
+        "label": "MAIN_MENU_OLD_LABEL_0",
+        "pass": true,
+        "detail": "text=新游戏|activeCount=0"
+      },
+      {
+        "label": "MAIN_MENU_OLD_LABEL_1",
+        "pass": true,
+        "detail": "text=载入游戏|activeCount=0"
+      },
+      {
+        "label": "MAIN_MENU_OLD_LABEL_2",
+        "pass": true,
+        "detail": "text=画廊|activeCount=0"
+      },
+      {
+        "label": "MAIN_MENU_OLD_LABEL_3",
+        "pass": true,
+        "detail": "text=制作人员|activeCount=0"
+      },
+      {
+        "label": "MAIN_MENU_OLD_LABEL_4",
+        "pass": true,
+        "detail": "text=设定|activeCount=0"
+      },
+      {
+        "label": "MAIN_MENU_OLD_LABEL_5",
+        "pass": true,
+        "detail": "text=退出|activeCount=0"
+      },
+      {
+        "label": "MENU_DESCRIPTION_KOREAN",
+        "pass": true,
+        "detail": "count=1"
+      },
+      {
+        "label": "MENU_DESCRIPTION_RUSSIAN_GONE",
+        "pass": true,
+        "detail": "count=0"
+      },
+      {
+        "label": "SAVE_MANAGER",
+        "pass": true,
+        "detail": "present=True"
+      },
+      {
+        "label": "LOAD_QUESTION",
+        "pass": true,
+        "detail": "question=선택한 저장 파일을 불러올까요?"
+      },
+      {
+        "label": "LOAD_YES",
+        "pass": true,
+        "detail": "text=예"
+      },
+      {
+        "label": "LOAD_NO",
+        "pass": true,
+        "detail": "text=아니요"
+      },
+      {
+        "label": "SOURCE_BEFORE_REVEAL",
+        "pass": true,
+        "detail": "index=600|line=Юля.Девушка (злой2) *убрать : 아직은… 몰라요."
+      },
+      {
+        "label": "SPEAKER_BEFORE_REVEAL",
+        "pass": true,
+        "detail": "expected=소녀|outputChar=소녀|nameBox=소녀|visible=True"
+      },
+      {
+        "label": "SOURCE_AFTER_REVEAL",
+        "pass": true,
+        "detail": "index=934|line=Юля (злой2) *номер.2: 내 이름을 말해 준 기억은 없는데요."
+      },
+      {
+        "label": "SPEAKER_AFTER_REVEAL",
+        "pass": true,
+        "detail": "expected=줄리아|outputChar=줄리아|nameBox=줄리아|visible=True"
+      }
+    ],
+    "log": {
+      "file": "quality/runtime/verification122-log.txt",
+      "sha256": "d65899bbf7edbe6964254e758af27fe238df8d25313ce4ddc119fea228ea95f6"
+    },
+    "screenshots": {
+      "startup_splash": {
+        "file": "quality/runtime/startup-splash.png",
+        "sha256": "62067df9fb3a542f45ee99c99719b09747c4a513d842e14c951f9ffe23f6c8a7",
+        "size": [
+          1920,
+          1080
+        ]
+      },
+      "load_confirmation": {
+        "file": "quality/runtime/load-confirmation.png",
+        "sha256": "0e5569679b5152403d853d3f3d0658585952b58c39178ea03c9f1318f6b5f8cc",
+        "size": [
+          1920,
+          1080
+        ]
+      },
+      "julia_before_reveal": {
+        "file": "quality/runtime/julia-before-reveal.png",
+        "sha256": "ba7474a8884ea6494920b83cc08ea6fb8299eee993091791fd176dc83b807df2",
+        "size": [
+          1920,
+          1080
+        ]
+      },
+      "julia_after_reveal": {
+        "file": "quality/runtime/julia-after-reveal.png",
+        "sha256": "9521f90f1ecca944206307588d01eec1bd4496471e8f49fe8bcd0f1dfd404517",
+        "size": [
+          1920,
+          1080
+        ]
+      }
+    },
+    "visual_inspection": {
+      "load_confirmation_no_tofu": true,
+      "julia_before_no_tofu_and_visible": true,
+      "julia_after_no_tofu_and_visible": true,
+      "startup_capture_note": "Splash overlay was still visible; active menu labels and description are proven by the runtime object checks and hook log, not by this frame."
+    }
+  },
+  "font": {
+    "name": "Noto Sans CJK KR Medium",
+    "glyph_count": 2769,
+    "original_glyphs_preserved": 1656,
+    "plugin_missing_codepoints_after_build": [],
+    "target_korean_cjk_glyphs_present_and_not_notdef": true,
+    "atlas_size": [
+      4096,
+      4096
+    ],
+    "point_size": 64,
+    "padding": 4,
+    "gradient_scale": 5,
+    "source_sha256": "15c12166634936c31307b91bd049d95b4ba30c248e8c389b5388f75ae8ba90d6",
+    "patched_sharedassets1_sha256": "286eb7b4746e4c613524acd4f2946624a6cb04ee2d239ce6bda6738ee5c8889f"
+  },
+  "staging_install_restore": {
+    "version": "1.2.2",
+    "install": {
+      "stale_cache_removed": true,
+      "sharedassets1_sha256": "286eb7b4746e4c613524acd4f2946624a6cb04ee2d239ce6bda6738ee5c8889f",
+      "plugin_dll_count": 1,
+      "pass": true,
+      "marker_version": "1.2.2",
+      "resources_sha256": "bc25a6f580f46ce8583d09f694ee72362b66c49fc73eb200df75d1304febaca1",
+      "plugin_sha256": "4cc781f7810faab69139382c8b58cd095f4e2e5573250f46f46f918fc34b5d8c"
+    },
+    "restore": {
+      "sharedassets1_sha256": "6ba4ae9aee13abcc824993a3f6e27aaa66590b76367fcae7c4892aa8c020d6f4",
+      "pass": true,
+      "bepinex_removed": true,
+      "marker_removed": true,
+      "resources_sha256": "b9dd966ed15bd1ca64efe1c428a054f1a812ca5d8677cde8ce8f1289d23f0f58"
+    }
+  },
+  "live_final_state": {
+    "captured_local": "2026-07-22T03:48:10.5014784+09:00",
+    "game_running": false,
+    "marker_version": "1.2.2",
+    "cache_exists": false,
+    "plugins": [
+      {
+        "name": "BigDipperKoreanSafe.dll",
+        "size": 19456,
+        "sha256": "4cc781f7810faab69139382c8b58cd095f4e2e5573250f46f46f918fc34b5d8c"
+      }
+    ],
+    "resources_sha256": "bc25a6f580f46ce8583d09f694ee72362b66c49fc73eb200df75d1304febaca1",
+    "sharedassets1_sha256": "286eb7b4746e4c613524acd4f2946624a6cb04ee2d239ce6bda6738ee5c8889f",
+    "verification122_present": false
+  },
+  "overall_pass": true
+}

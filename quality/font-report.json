@@ -1,0 +1,40 @@
+{
+  "font_source": "C:\\Users\\CadriacLord\\Documents\\Codex\\2026-07-21\\new-chat-2\\work\\font\\NotoSansCJKkr-Medium.otf",
+  "font_asset_path_id": 644,
+  "atlas_texture_path_id": 51,
+  "material_path_id": 13,
+  "gradient_scale": 5,
+  "font_name": "Noto Sans CJK KR Medium",
+  "font_weight": 500,
+  "point_size": 64,
+  "padding": 4,
+  "material_texture_size": [
+    4096,
+    4096
+  ],
+  "glyph_count": 2769,
+  "required_character_count": 2769,
+  "missing_required_glyphs": 0,
+  "required_sources": [
+    "translation/Text3_Korean_v2.txt",
+    "BigDipperKoreanSafe.cs",
+    "original TMP glyph IDs"
+  ],
+  "plugin_unique_characters": 391,
+  "plugin_missing_codepoints_after_build": [],
+  "original_glyph_count": 1656,
+  "original_glyphs_preserved": 1656,
+  "hangul_syllables": 934,
+  "atlas_size": [
+    4096,
+    4096
+  ],
+  "atlas_used_height": 3233,
+  "source_sha256": "6ba4ae9aee13abcc824993a3f6e27aaa66590b76367fcae7c4892aa8c020d6f4",
+  "patched_sha256": "286eb7b4746e4c613524acd4f2946624a6cb04ee2d239ce6bda6738ee5c8889f",
+  "font_source_sha256": "15c12166634936c31307b91bd049d95b4ba30c248e8c389b5388f75ae8ba90d6",
+  "license": "SIL Open Font License 1.1",
+  "license_file": "C:\\Users\\CadriacLord\\Documents\\Codex\\2026-07-21\\new-chat-2\\work\\font\\OFL-NotoSansCJK.txt",
+  "license_sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2",
+  "preview": "C:\\Users\\CadriacLord\\Documents\\Codex\\2026-07-21\\new-chat-2\\work\\font\\korean-sdf-atlas.png"
+}

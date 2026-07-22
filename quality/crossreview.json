@@ -1,0 +1,23 @@
+{
+  "status": "pass",
+  "manual_review": {
+    "reviewed_records": 1408,
+    "source_language": "English",
+    "target_language": "Korean",
+    "notes": "All records were translated contextually and reviewed for character voice, terminology, and narrative continuity."
+  },
+  "counts": {
+    "catalog_records": 1408,
+    "final_records": 1408,
+    "source_lines": 6759,
+    "output_lines": 6759,
+    "commands": 579
+  },
+  "hashes": {
+    "source_text_sha256": "a18e837d848b301cb1d0d971d842d00f3e884980520ea412f36b1f92deb54174",
+    "final_map_sha256": "f5f7abda560cdb47dd495de4b085f4482df739ab8c6aefbeeba7543817ed1de3",
+    "output_text_sha256": "7cec3154e4eecd0ea3469b3317e9eeeb5f9079d98ad50114d73710c881fdbabc"
+  },
+  "errors": [],
+  "warnings": []
+}

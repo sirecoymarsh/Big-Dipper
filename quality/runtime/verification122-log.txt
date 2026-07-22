@@ -1,0 +1,66 @@
+[Message:   BepInEx] BepInEx 5.4.23.5 - Big Dipper (7/21/2026 7:22:21 PM)
+[Info   :   BepInEx] Running under Unity v2018.3.3.3750830
+[Info   :   BepInEx] CLR runtime version: 2.0.50727.1433
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.23.5]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 2 plugins to load
+[Info   :   BepInEx] Loading [Big Dipper Korean 1.2.2]
+[Info   :Big Dipper Korean] Safe Korean patch 1.2.2 loaded
+[Info   :Big Dipper Korean] Hook installed: DialogueManager.set_outputChar
+[Info   :Big Dipper Korean] Direct game text writer hooks installed: 7
+[Info   :Big Dipper Korean] Hook installed: TMP_Text.set_text
+[Info   :Big Dipper Korean] Hook installed: TextMeshProUGUI.OnEnable
+[Info   :Big Dipper Korean] Required direct hooks installed; initialization continues independently of optional hook failures
+[Info   :Big Dipper Korean] Korean script slot selected safely (language 2)
+[Info   :   BepInEx] Loading [Big Dipper Korean Verification 122 1.2.2]
+[Info   :Big Dipper Korean Verification 122] VERIFY122|START|build=2026-07-22-b
+[Message:   BepInEx] Chainloader startup complete
+[Info   :Big Dipper Korean] Game text writer hook: GalleryCanvas.⁫⁭⁫‫‌‍‪⁬⁬‪‮‪‏​​​⁪⁮‏‎​‏⁬⁪‫​‫⁮​‬⁪⁮⁪‏⁪‮‪⁪⁮⁪‮ | 画廊 -> 갤러리
+[Info   :Big Dipper Korean] Game text writer hook: GalleryCanvas.⁫⁭⁫‫‌‍‪⁬⁬‪‮‪‏​​​⁪⁮‏‎​‏⁬⁪‫​‫⁮​‬⁪⁮⁪‏⁪‮‪⁪⁮⁪‮ | 返回 -> 뒤로
+[Info   :Big Dipper Korean] Scene UI translated once: GameScene
+[Info   :Big Dipper Korean Verification 122] VERIFY122|CHECK|MAIN_MENU_LABEL_0|pass=True|text=새 게임|activeCount=1
+[Info   :Big Dipper Korean Verification 122] VERIFY122|CHECK|MAIN_MENU_LABEL_1|pass=True|text=불러오기|activeCount=2
+[Info   :Big Dipper Korean Verification 122] VERIFY122|CHECK|MAIN_MENU_LABEL_2|pass=True|text=갤러리|activeCount=1
+[Info   :Big Dipper Korean Verification 122] VERIFY122|CHECK|MAIN_MENU_LABEL_3|pass=True|text=제작진|activeCount=1
+[Info   :Big Dipper Korean Verification 122] VERIFY122|CHECK|MAIN_MENU_LABEL_4|pass=True|text=설정|activeCount=2
+[Info   :Big Dipper Korean Verification 122] VERIFY122|CHECK|MAIN_MENU_LABEL_5|pass=True|text=종료|activeCount=1
+[Info   :Big Dipper Korean Verification 122] VERIFY122|CHECK|MAIN_MENU_OLD_LABEL_0|pass=True|text=新游戏|activeCount=0
+[Info   :Big Dipper Korean Verification 122] VERIFY122|CHECK|MAIN_MENU_OLD_LABEL_1|pass=True|text=载入游戏|activeCount=0
+[Info   :Big Dipper Korean Verification 122] VERIFY122|CHECK|MAIN_MENU_OLD_LABEL_2|pass=True|text=画廊|activeCount=0
+[Info   :Big Dipper Korean Verification 122] VERIFY122|CHECK|MAIN_MENU_OLD_LABEL_3|pass=True|text=制作人员|activeCount=0
+[Info   :Big Dipper Korean Verification 122] VERIFY122|CHECK|MAIN_MENU_OLD_LABEL_4|pass=True|text=设定|activeCount=0
+[Info   :Big Dipper Korean Verification 122] VERIFY122|CHECK|MAIN_MENU_OLD_LABEL_5|pass=True|text=退出|activeCount=0
+[Info   :Big Dipper Korean Verification 122] VERIFY122|CHECK|MENU_DESCRIPTION_KOREAN|pass=True|count=1
+[Info   :Big Dipper Korean Verification 122] VERIFY122|CHECK|MENU_DESCRIPTION_RUSSIAN_GONE|pass=True|count=0
+[Info   :Big Dipper Korean Verification 122] VERIFY122|CAPTURE|P:\SteamLibrary\steamapps\common\Big Dipper\WIN\BigDipperKorean-verify122-main-menu.png
+[Info   :Big Dipper Korean Verification 122] VERIFY122|CHECK|SAVE_MANAGER|pass=True|present=True
+[Info   :Big Dipper Korean] Game text writer hook: ModalPanel.⁪‍‮⁮‪⁪‍⁬‫‮‎‏‪⁮‮‬‬⁪‍‌⁫‎‪‫‪‍‎‮‏‏‮‏⁪⁪⁮⁪⁬‍‎⁪‮ | 是 -> 예
+[Info   :Big Dipper Korean] Game text writer hook: ModalPanel.⁪‍‮⁮‪⁪‍⁬‫‮‎‏‪⁮‮‬‬⁪‍‌⁫‎‪‫‪‍‎‮‏‏‮‏⁪⁪⁮⁪⁬‍‎⁪‮ | 否 -> 아니요
+[Info   :Big Dipper Korean] Game text writer hook: ModalPanel.⁪‍‮⁮‪⁪‍⁬‫‮‎‏‪⁮‮‬‬⁪‍‌⁫‎‪‫‪‍‎‮‏‏‮‏⁪⁪⁮⁪⁬‍‎⁪‮ | 加载所选存档？ -> 선택한 저장 파일을 불러올까요?
+[Info   :Big Dipper Korean Verification 122] VERIFY122|CHECK|LOAD_QUESTION|pass=True|question=선택한 저장 파일을 불러올까요?
+[Info   :Big Dipper Korean Verification 122] VERIFY122|CHECK|LOAD_YES|pass=True|text=예
+[Info   :Big Dipper Korean Verification 122] VERIFY122|CHECK|LOAD_NO|pass=True|text=아니요
+[Info   :Big Dipper Korean Verification 122] VERIFY122|CAPTURE|P:\SteamLibrary\steamapps\common\Big Dipper\WIN\BigDipperKorean-verify122-load-confirmation.png
+[Info   :Big Dipper Korean] Speaker hook: 尼古拉斯 -> 니콜라스
+[Info   :Big Dipper Korean] Game text writer hook: DialogueManager.‬‌‍‪‍‏⁮⁯‌​‬‭⁯​⁬‫‎‎⁭⁪⁪‎​‫⁫‎‍⁯⁮‎‫‍⁮‫⁯⁫‏‫​⁬‮ | 保存 -> 저장
+[Info   :Big Dipper Korean] Game text writer hook: DialogueManager.‬‌‍‪‍‏⁮⁯‌​‬‭⁯​⁬‫‎‎⁭⁪⁪‎​‫⁫‎‍⁯⁮‎‫‍⁮‫⁯⁫‏‫​⁬‮ | 载入 -> 불러오기
+[Info   :Big Dipper Korean] Game text writer hook: DialogueManager.‬‌‍‪‍‏⁮⁯‌​‬‭⁯​⁬‫‎‎⁭⁪⁪‎​‫⁫‎‍⁯⁮‎‫‍⁮‫⁯⁫‏‫​⁬‮ | 设定 -> 설정
+[Info   :Big Dipper Korean] Game text writer hook: DialogueManager.‬‌‍‪‍‏⁮⁯‌​‬‭⁯​⁬‫‎‎⁭⁪⁪‎​‫⁫‎‍⁯⁮‎‫‍⁮‫⁯⁫‏‫​⁬‮ | 自动 -> 자동
+[Info   :Big Dipper Korean Verification 122] VERIFY122|START_NEW_GAME_AND_SHOW_DIALOGUE
+[Info   :Big Dipper Korean] Speaker hook: 安德鲁 -> 앤드루
+[Info   :Big Dipper Korean Verification 122] VERIFY122|CHECK|SOURCE_BEFORE_REVEAL|pass=True|index=600|line=Юля.Девушка (злой2) *убрать : 아직은… 몰라요.
+[Info   :Big Dipper Korean] Speaker hook: 女孩 -> 소녀
+[Info   :Big Dipper Korean Verification 122] VERIFY122|CHECK|SPEAKER_BEFORE_REVEAL|pass=True|expected=소녀|outputChar=소녀|nameBox=소녀|visible=True
+[Info   :Big Dipper Korean Verification 122] VERIFY122|CAPTURE|P:\SteamLibrary\steamapps\common\Big Dipper\WIN\BigDipperKorean-verify122-julia-before.png
+[Info   :Big Dipper Korean Verification 122] VERIFY122|CHECK|SOURCE_AFTER_REVEAL|pass=True|index=934|line=Юля (злой2) *номер.2: 내 이름을 말해 준 기억은 없는데요.
+[Info   :Big Dipper Korean] Speaker hook: 茱莉亚 -> 줄리아
+[Info   :Big Dipper Korean Verification 122] VERIFY122|CHECK|SPEAKER_AFTER_REVEAL|pass=True|expected=줄리아|outputChar=줄리아|nameBox=줄리아|visible=True
+[Info   :Big Dipper Korean Verification 122] VERIFY122|CAPTURE|P:\SteamLibrary\steamapps\common\Big Dipper\WIN\BigDipperKorean-verify122-julia-after.png
+[Info   :Big Dipper Korean Verification 122] VERIFY122|COMPLETE|pass=True|failures=0
